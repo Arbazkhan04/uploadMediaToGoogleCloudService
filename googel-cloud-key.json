@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "firstmediauploadtogogglecloud",
+  "private_key_id": "bb958d35920d2c11d1311dba4306318191614ce1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6zsmv+FNmwZQu\no1yLn3z5LYKWtW4Nm88Zhg++73l7d3meC12kcdhkEsLbsZPSy8GpLdXwtbptyf8f\n7vo+MRTeqf+HbP3UYmK070tLLUBIv/fu0mE8N9Ee0NZMrRGZKURk2LV+28tD3+a3\ng0lbQx/x7Hr5q2pf4gkbLdAiQzoETIGRMHYvCxKbmPoN1EHesSPvKL5k76slnUbF\nxDh0ktLVhqD6VAN4wt+8QtxOmyjO0Na/bjU+ayEKRwQWcPOdLW890XQ5067/0lWT\n8qIpjURjfyR5MRv98FGEFfZaEtLGH5/Ohx0ab1WGKAXKhfnrfLqlpz3osHm4e6FC\n6Ta+Lm6vAgMBAAECggEAE/b8wYSfLpNlabSbiUU4KeNYxRBKh5l4K/NSzyZbNpGs\nGvLTr7sGaZpDCWV0SypBSM+gFp6SzaAHLFux5/VT6dYuUUQZ6VnDJduQkaNvmYws\nDHH0jWcuajDfQ7OYIWUygjqnmbwWKxYMsN6O96TNZGF7OnVnpCwNVW0d2kOSuZm1\nPI7bHngKQ/OUdcD0l55dEgfPMIwf4UuQYzzY5Vq/0CHFUmn/1AYX4avFAVS7vNOA\nEKh6ByWYKcsC1LhP14aTBCRX2Q+WL88+Z9lvBLN6N+JfPwMrPEaGtI6rSEpKkfmC\nq34X/Qo1WrFeXFl6K2CXaZZUQ0yRPFR10fUmzv0dWQKBgQD0sGyWObj8drIJONvn\nf/Lrh6y/q+3hDySc4HHNrklLOXzrVPn6rAvp3rmCYMiy3Eu4TI8LUzue49fCwDAV\n+4+UhkRo4vOgcoFTLcAPD3SCJj0rtUEdzoLxFPOe34c17MfUSvAOYRkDDJrg8i/n\nidcFzNNQ1J9nwGpCabUAwrvVhwKBgQDDcWnF/wM/EvGPyVN4i5Q0pksT0SxRTmT2\neX93PJlr0u0nXQtxl8NfWzmvUUoXZbKVqXBZu7vJccNgOBOPZxXbiywwIt4P2nNz\nFzOJLHzJNQGgmw9NA0QD7hBGFSEnmaC5fSQ/5YyMJ1+Z4A9qHK/R8jiVUWQcGmYs\nJRaT34nnmQKBgQDRfwfJayxtw3ZVHQByaYLjk2sdRCfMDHoNcsEdF76bEGJa3ouU\nyp78onv0G8daE/Ekny/Nw3qFZJADpybEe3iH8pk5sC5kzgTZ4Y7Rlirrj6/J70sM\nKRbFMGoROVJ7ofnJUkvME+glSzKDq/fF5qdZyO+YAiNk4kJYEEcvmorVmwKBgQCp\nDcDgcuTr+gbYyNxauOFJaU4nphcffR/30sBe8xwCGEDqe6EacJueL9qFu1rLQjxn\nGFkGRUz5wl2tLNQ+hnxxmsBuIrrSG7MhKkB5tvF5WVA/C+EATILYo2OQO1aiWlCc\nIZLpcjVQRf57q0OqFYY/o7Ut82kUpgEazjnpTsKKgQKBgEzdMWJw9NMNi3cuWCct\nRPL7tgsZMrO17Z5zO1pqaGY9NPbZ+5OzaZatGy2Q9b2DQArKH2Nq84utWDyECIp5\nCtryAA4/EAm1tXvYnCCk70QRu5YGNTiF0jShL3ar5NL5akHyxAA2O3Nqiu/34TGk\nnPY06lGqABfOfu+sI+sOxG6b\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecom555@firstmediauploadtogogglecloud.iam.gserviceaccount.com",
+  "client_id": "117863368453063826287",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecom555%40firstmediauploadtogogglecloud.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
